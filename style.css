@@ -150,6 +150,7 @@ footer .btn:hover .icon {
     background: url('./images/bg-desktop.svg');
     background-size: cover;
     gap: 20px;
+    justify-content: space-between;
   }
   h1, p {
     text-align: left;
