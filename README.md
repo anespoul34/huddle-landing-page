@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [link](link)
-- Live Site URL: [link](link)
+- Solution URL: [link](https://www.frontendmentor.io/solutions/landing-page-using-html-css-only-nw2QKaZqDF)
+- Live Site URL: [link](https://huddle-landing-page-ruddy-nine.vercel.app/)
 
 ## My process
 
